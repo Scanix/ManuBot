@@ -1,0 +1,11 @@
+{
+    "name": "NectoBot",
+    "version": "1.0.0",
+    "description": "Le ManuBot, le meilleur allié de vos discussions politiques !",
+    "main": "bot.js",
+    "author": "Alexandre Bianchi, Scanix",
+    "dependencies": {
+        "discord.js": "^11.3.2"
+    },
+    "license": "MIT"
+}
